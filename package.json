@@ -41,10 +41,10 @@
     "istanbul": "~0.2.0"
   },
   "dependencies": {
-    "strider-mailer": "^0.2",
     "async": "~0.2.9",
-    "underscore": "~1.5.2",
     "jade": "~0.35.0",
-    "moment": "~2.4.0"
+    "moment": "^2.13.0",
+    "strider-mailer": "^0.2",
+    "underscore": "~1.5.2"
   }
 }
